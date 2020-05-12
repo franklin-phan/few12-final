@@ -1,0 +1,10 @@
+.Heading {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: rgba(96, 0, 252, 0.698);
+    color: #fff;
+  }
